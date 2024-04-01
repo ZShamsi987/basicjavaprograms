@@ -1,0 +1,1 @@
+class a{public static void main(String[]a){for(int i=2;i<51;i+=2)System.out.println(i);}}
